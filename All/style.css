@@ -6,3 +6,7 @@ h1 {
   padding: 20px;
   margin: 20px 700px;
 }
+h1:hover {
+  background-color: red;
+  color: white;
+}
