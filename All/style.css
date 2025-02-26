@@ -11,3 +11,8 @@ h1:hover {
   background-color: red;
   color: white;
 }
+
+h2 {
+  background-color: violet;
+  margin-left: 20px;
+}
